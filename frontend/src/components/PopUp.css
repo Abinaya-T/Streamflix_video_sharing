@@ -1,0 +1,22 @@
+
+.modal {
+  background: rgba(88, 87, 87, 0.5); 
+}
+.modal-backdrop {
+  display: none;
+}
+
+.form-control {
+
+  background-color: transparent !important;
+  border: solid 1px gray !important;
+  border-radius: 2px !important;
+}
+
+.btn{
+  margin-right: 15px;
+}
+
+#upload-btn{
+  width: 100px;
+}

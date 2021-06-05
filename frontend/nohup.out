@@ -1,0 +1,3580 @@
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.82.189/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 124:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 158:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 124:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 158:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! frontend@0.1.0 start: `PORT=8081 react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/crio-user/.npm/_logs/2021-05-05T13_26_36_824Z-debug.log
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.93.14/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.93.14/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Header.js
+Syntax error: Expected corresponding JSX closing tag for <Menu.Menu> (23:11)
+
+  21 |
+  22 |             <PopUp />
+> 23 |           </Menu.Item>  
+     |           ^
+  24 |           </Menu.Menu>
+  25 |
+  26 |         </Menu.Menu>
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Header.js
+Syntax error: Expected corresponding JSX closing tag for <Menu.Menu> (27:7)
+
+  25 |
+  26 |         </Menu.Menu>
+> 27 |       </Menu>
+     |       ^
+  28 |     );
+  29 |   }
+  30 | }
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.93.14/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div 
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div id
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div 
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (15:13)
+
+  13 |   return (
+  14 |     <>
+> 15 |       <div ./runAssessment.s
+     |             ^
+  16 |       <Button variant="primary" onClick={handleShow}>
+  17 |         Upload
+  18 |       </Button>
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div i
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div id
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div id=""
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div id="upload"
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unexpected token (16:7)
+
+  14 |     <>
+  15 |       <div id="upload-btn"
+> 16 |       <Button variant="primary" onClick={handleShow}>
+     |       ^
+  17 |         Upload
+  18 |       </Button>
+  19 |         <Modal ClassName="upload-modal" show={show} onHide={handleClose} centered >
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Modal.js
+Syntax error: Unterminated JSX contents (92:8)
+
+  90 |           </Modal.Footer>
+  91 |         </Modal>
+> 92 |     </>
+     |        ^
+  93 |   );
+  94 | }
+  95 |
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.72.152/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Header.js
+Syntax error: Expected corresponding JSX closing tag for <Menu.Menu> (22:11)
+
+  20 |
+  21 |             <PopUp />
+> 22 |           </Menu.Item>  
+     |           ^
+  23 |           </Menu.Menu>
+  24 |
+  25 |         </Menu.Menu>
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.72.152/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Search.js
+Syntax error: Expected corresponding JSX closing tag for <div> (221:9)
+
+  219 |         <div className="sort-select">
+  220 |         <Sort />
+> 221 |         </span>
+      |         ^
+  222 |         <div className="video-grid">
+  223 |           <Container fluid>
+  224 |             <Row className="justify-content-md-center">
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+  Line 31:8:  'Dropdown' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+  Line 31:8:  'Dropdown' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+  Line 29:8:  'Dropdown' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+  Line 29:8:  'Dropdown' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+  Line 27:8:  'Dropdown' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+  Line 27:8:  'Selct' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Missing semicolon (11:11)
+
+   9 |         }
+  10 |     }
+> 11 |   render() {
+     |           ^
+  12 |           const options = [{
+  13 |               id: 'release-date-option',
+  14 |               value: 'Release Date',
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 22:21:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Unexpected token (31:24)
+
+  29 |         defaultValue={options[0].value}
+  30 |         value={selectedOption}
+> 31 |         onChange={this.}
+     |                        ^
+  32 |       />
+  33 |       </>
+  34 |     );
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 6:10:   'Sort' is defined but never used              no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+./src/components/Sort.js
+SyntaxError: /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/src/components/Sort.js: Namespace tags are not supported by default. React's JSX doesn't support namespace tags. You can set `throwIfNamespace: false` to bypass this warning.
+  36 |           value={selectedOption}
+  37 |           onChange={this.handleChange}
+> 38 |           width: 
+     |           ^
+  39 |           theme={theme => ({
+  40 |             ...theme,
+  41 |             borderRadius: 0,
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: JSX value should be either an expression or a quoted JSX text (39:11)
+
+  37 |           onChange={this.handleChange}
+  38 |           width= 
+> 39 |           theme={theme => ({
+     |           ^
+  40 |             ...theme,
+  41 |             borderRadius: 0,
+  42 |             colors: {
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Identifier directly after number (38:21)
+
+  36 |           value={selectedOption}
+  37 |           onChange={this.handleChange}
+> 38 |           width= 100px;
+     |                     ^
+  39 |           theme={theme => ({
+  40 |             ...theme,
+  41 |             borderRadius: 0,
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Unexpected token (44:31)
+
+  42 |             colors: {
+  43 |               ...theme.colors,
+> 44 |               primary25: 'grey',
+     |                               ^
+  45 |               primary: 'black',
+  46 |             },
+  47 |           })}
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Unexpected token (38:25)
+
+  36 |           value={selectedOption}
+  37 |           onChange={this.handleChange}
+> 38 |           width= '100px';
+     |                         ^
+  39 |           theme={theme => ({
+  40 |             ...theme,
+  41 |             borderRadius: 0,
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Expected corresponding JSX closing tag for <div> (48:7)
+
+  46 |           })}
+  47 |         />
+> 48 |       </>
+     |       ^
+  49 |     );
+  50 |   }
+  51 | }
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Expected corresponding JSX closing tag for <div> (48:7)
+
+  46 |           })}
+  47 |         />
+> 48 |       </>
+     |       ^
+  49 |     );
+  50 |   }
+  51 | }
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Expected corresponding JSX closing tag for <div> (48:7)
+
+  46 |           })}
+  47 |         />
+> 48 |       </>
+     |       ^
+  49 |     );
+  50 |   }
+  51 | }
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: JSX value should be either an expression or a quoted JSX text (35:11)
+
+  33 |           className="sort-select"
+  34 |           classNamePrefix=
+> 35 |           options={options}
+     |           ^
+  36 |           defaultValue={options[0].value}
+  37 |           value={selectedOption}
+  38 |           onChange={this.handleChange}
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Unexpected token (31:22)
+
+  29 |     return (
+  30 |
+> 31 |         {"Sort By : "}
+     |                      ^
+  32 |         <Select
+  33 |           className="sort-select"
+  34 |           options={options}
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Expected corresponding JSX closing tag for <> (48:7)
+
+  46 |           })}
+  47 |         />
+> 48 |       </div>
+     |       ^
+  49 |     );
+  50 |   }
+  51 | }
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used                   no-unused-vars
+  Line 3:8:    'Select' is defined but never used                   no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used         no-unused-vars
+  Line 28:13:  'selectedOption' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:   'config' is defined but never used            no-unused-vars
+  Line 3:8:    'Select' is defined but never used            no-unused-vars
+  Line 16:11:  'options' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: JSX value should be either an expression or a quoted JSX text (20:14)
+
+  18 |         {"Sort By : "}
+  19 |         <select>
+> 20 |   <option id=selected value="Release Date">Release Date</option>
+     |              ^
+  21 |   <option value="View Count">View Count</option>
+  22 | </select>
+  23 |       </>
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Failed to compile.
+
+src/components/Sort.js
+Syntax error: Unexpected token (19:26)
+
+  17 |         <>
+  18 |         {"Sort By : "}
+> 19 |         <select className=>
+     |                          ^
+  20 |   <option id="release-date-option"selected value="Release Date">Release Date</option>
+  21 |   <option id="view-count-option"value="View Count">View Count</option>
+  22 | </select>
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.24.233/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.64.205/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_REACT/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_NODE/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.48.166/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_NODE/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_NODE/frontend
+> PORT=8081 react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.48.166/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/crio-user/workspace/abi8255-ME_BUILDOUT_XFLIX_NODE/frontend/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/App.js
+  Line 2:17:  'useLayoutEffect' is defined but never used  no-unused-vars
+  Line 3:25:  'useLocation' is defined but never used      no-unused-vars
+  Line 4:8:   'Header' is defined but never used           no-unused-vars
+
+src/components/Header.js
+  Line 2:22:  'Button' is defined but never used  no-unused-vars
+  Line 2:30:  'Icon' is defined but never used    no-unused-vars
+
+src/components/Search.js
+  Line 1:26:   'Button' is defined but never used            no-unused-vars
+  Line 9:25:   'Dropdown' is defined but never used          no-unused-vars
+  Line 9:35:   'Icon' is defined but never used              no-unused-vars
+  Line 125:7:  'errored' is assigned a value but never used  no-unused-vars
+  Line 159:7:  'errored' is assigned a value but never used  no-unused-vars
+
+src/components/Sort.js
+  Line 2:10:  'config' is defined but never used  no-unused-vars
+  Line 3:8:   'Select' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+

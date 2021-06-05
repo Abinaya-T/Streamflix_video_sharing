@@ -1,0 +1,1 @@
+mongoimport --uri 'mongodb+srv://admin:testabc@xflix-node.1vaam.mongodb.net/xflix?retryWrites=true&w=majority' --drop --collection videos --file data/export_xflix_videos.json

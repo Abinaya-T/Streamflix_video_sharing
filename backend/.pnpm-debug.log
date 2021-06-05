@@ -1,0 +1,19 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "errno": 1,
+    "code": "ELIFECYCLE",
+    "pkgid": "xflix_me_backend@1.4.1",
+    "stage": "start",
+    "script": "node backend/index.js",
+    "pkgname": "xflix_me_backend",
+    "err": {
+      "name": "Error",
+      "message": "xflix_me_backend@1.4.1 start: `node backend/index.js`\nExit status 1",
+      "code": "ELIFECYCLE",
+      "stack": "Error: xflix_me_backend@1.4.1 start: `node backend/index.js`\nExit status 1\n    at EventEmitter.<anonymous> (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@6.2.1/node_modules/pnpm/dist/pnpm.cjs:105886:18)\n    at EventEmitter.emit (events.js:315:20)\n    at ChildProcess.<anonymous> (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@6.2.1/node_modules/pnpm/dist/pnpm.cjs:91460:16)\n    at ChildProcess.emit (events.js:315:20)\n    at maybeClose (internal/child_process.js:1048:16)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)"
+    }
+  }
+}
